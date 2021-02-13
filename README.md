@@ -13,7 +13,7 @@
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point
 
 - #ACPI:
- SSDT-EC.aml => Từ SSDTTime lấy ra
+. SSDT-EC.aml => Từ SSDTTime lấy ra
  SSDT-PLUG-DRTNIA.aml
 -     - SSDT-AWAC.aml
 - #DeviceProperties
